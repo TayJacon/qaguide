@@ -29,7 +29,7 @@ Estes códigos e razões estão descritos na tabela abaixo para o seu conhecimen
 Agora que você sabe o que é HTTP e HTTPS, confira essa lista com códigos HTTP, que tem os códigos mais comuns e outros que raramente são usados, baseado no W3.org.
 
 | Código do Status HTTP | Significado do código HTTP | Significado do código HTTP |
-| (Status-code) | | (Reason-Phrase) | |
+| (Status-code) | (Reason-Phrase) | |
 | --- | --- |
 | 100 | | Continue | Continuar |
 | 101 | Switching Protocols | Mudando Protocolos |
